@@ -1,0 +1,12 @@
+Toyota Corolla 2020.0
+Tesla Model 3 2023.0
+
+Actions.résumé:
+- Initialisation...
+- Analyse: Item 1
+- Analyse: Item 2
+
+Actions.résumé:
+- Initialisation...
+- Analyse: Item 1
+- Analyse: Item 2
